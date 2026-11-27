@@ -1,0 +1,21 @@
+# Build output
+build/
+.gradle/
+.kotlin/
+*.apk
+*.aab
+
+# Local, per-machine settings (SDK path, personal AIOMetadata URL)
+local.properties
+
+# Signing keys
+*.jks
+*.keystore
+
+# IDEs and OS
+.idea/
+*.iml
+.DS_Store
+
+# Scratch
+backup/
